@@ -9,4 +9,4 @@ category: blog
 
 
 
-[BeiYuu]:    http://beiyuu.com  "BeiYuu"
+[赫连勃格]:    http://blog.he-lian.com  "赫连勃格"
